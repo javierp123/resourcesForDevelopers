@@ -1,0 +1,47 @@
+*{
+    background-color: #ACCCCA;
+    color:#1C304A;
+
+}
+h1{
+    font-family: serif;
+    font-weight:bold;
+    font-size: 70px;
+    text-align: left;
+    margin-bottom:2cm;
+    
+}        
+
+div p a{
+    font-weight: bold;
+    font-family: serif;
+    font-size: 18px;
+    
+
+}
+
+nav{
+    list-style-type: none;
+}
+
+nav a {
+
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 25%;
+    float: left;
+    margin-bottom: 1cm;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 18px;
+    
+   
+    } 
+
+h2{
+    margin-top: 2cm;
+}
+
+
